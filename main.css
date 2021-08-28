@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #212121;
+}
+
+#btn {
+    height: 40px;
+    padding: 5px;
+    border: 1px solid #FFF;
+    border-radius: 5px;
+    text-decoration: none;
+    color: #FFF;
+    font-weight: 800;
+    background-color: #212121;
+}
